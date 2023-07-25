@@ -1,1 +1,5 @@
-console.log("I caused a merge conflict");
+console.log("hello world");
+
+const addingFunction = (x, y) => x+y;
+
+console.log(addingFunction(5,10));
